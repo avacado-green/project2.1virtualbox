@@ -4,7 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nId41DNhn5AquGRoh-L6-1" value="Родительский Класс&#xa;│&#xa;├── Домашние животные&#xa;│   ├── Собаки&#xa;│   ├── Кошки&#xa;│   └── Хомяки&#xa;│&#xa;└── Вьючные животные&#xa;    ├── Лошади&#xa;    ├── Верблюды&#xa;    └── Ослы" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nId41DNhn5AquGRoh-L6-1" value="Родительский Класс
+&#xa;│
+&#xa;├── Домашние животные
+&#xa;│   ├── Собаки
+&#xa;│   ├── Кошки
+&#xa;│   └── Хомяки
+&#xa;│
+&#xa;└── Вьючные животные
+&#xa;    ├── Лошади
+&#xa;    ├── Верблюды
+&#xa;    └── Ослы" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="390" width="320" height="550" as="geometry" />
         </mxCell>
       </root>
