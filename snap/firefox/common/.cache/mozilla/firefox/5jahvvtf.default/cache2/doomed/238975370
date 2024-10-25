@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Fri, 25 Oct 2024 16:42:27 GMT -->
+  <!-- Cached: Fri, 25 Oct 2024 16:30:31 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -54,9 +54,9 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 800,
+				"frecency": 700,
 				"guid": "Jjgtk_ZO1sBJ",
-				"lastVisitDate": 1729873860682,
+				"lastVisitDate": 1729873823952,
 				"title": "Personal Access Tokens (Classic)",
 				"url": "https://github.com/settings/tokens",
 				"type": "history",
@@ -198,9 +198,9 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 800,
+				"frecency": 700,
 				"guid": "Jjgtk_ZO1sBJ",
-				"lastVisitDate": 1729873860682,
+				"lastVisitDate": 1729873823952,
 				"title": "Personal Access Tokens (Classic)",
 				"url": "https://github.com/settings/tokens",
 				"type": "history",
@@ -908,4 +908,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-ªPZ#³ò           gÊsGx+ÿÿÿÿ       :about:home alt-data 1;56093,script version 20240819223648  ÑS
+A ‰Ýê           gÇ§Gx)ÿÿÿÿ       :about:home alt-data 1;56093,script version 20240819223648  ÑS
