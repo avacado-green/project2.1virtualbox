@@ -1,0 +1,42 @@
+    1  ls
+    2  sudo mkdir testfolder
+    3  ls
+    4  is
+    5  sudo -i
+    6  echo -e 'собаки\кошки\хомяки' > Домашние_животные.txt
+    7  echo -e 'лошади\nверблюды\nослы' > Вьючные_животные.txt
+    8  cat Домашние_животные.txt Вьючные_животные.txt > Друзья_человека.txt
+    9  cat Друзья_человека.txt
+   10  echo -e 'собаки\nкошки\nхомяки' > Домашние_животные.txt
+   11  echo -e 'лошади\nверблюды\nослы' > Вьючные_животные.txt
+   12  cat Домашние_животные.txt Вьючные_животные.txt > Друзья_человека.txt
+   13  cat Друзья_человека.txt
+   14  mv Друзья_человека.txt Новые_друзья.txt
+   15  mkdir Друзья_человека
+   16  mv Новые_друзья.txt Друзья_человека/
+   17  wget https://dev.mysql.com/get/mysql-apt-config_0.8.15-1_all.deb
+   18  sudo apt-get purge mysql*
+   19  sudo apt-get autoremove
+   20  wget -c https://dev.mysql.com/doc/refman/8.0/en/checking-gpg-signature.html
+   21  sudo apt-key add mysql_pubkey.asc
+   22  wget https://dev.mysql.com/get/mysql-apt-config_0.8.15-1_all.deb
+   23  sudo apt-key add mysql_pubkey.asc
+   24  wget https://dev.mysql.com/get/mysql-apt-config_0.8.15-1_all.deb
+   25  ip addr
+   26  cd/ etc/netplan/
+   27  cd/etc/netplan/
+   28  ip addr
+   29  echo -e 'собаки
+   30  echo -e 'собаки
+   31  sudo apt-get update
+   32  wget https://dev.mysql.com/get/mysql-apt-config_0.8.15-1_all.deb
+   33  wget https://repo.mysql.com/mysql-apt-config_0.8.15-1_all.deb
+   34  sudo dpkg -i mysql-apt-config_0.8.15-1_all.deb
+   35  sudo apt-get update
+   36  sudo apt-get install mysql-server
+   37  wget https://path/to/package.deb
+   38  wget https://repo.mysql.com/mysql-apt-config_0.8.15-1_all.deb
+   39  sudo dpkg -i mysql-apt-config_0.8.15-1_all.deb
+   40  sudo dpkg -r mysql-apt-config
+   41  history
+   42  history > history.txt
