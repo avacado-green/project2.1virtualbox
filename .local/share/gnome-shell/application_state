@@ -3,8 +3,8 @@
   <context id="">
     <application id="org.gnome.Settings.desktop" score="114" last-seen="1729758855"/>
     <application id="nm-connection-editor.desktop" score="3" last-seen="1729703080"/>
-    <application id="firefox_firefox.desktop" score="7354" last-seen="1729778441"/>
-    <application id="org.gnome.Terminal.desktop" score="3820" last-seen="1729778324"/>
+    <application id="firefox_firefox.desktop" score="7375" last-seen="1729870076"/>
+    <application id="org.gnome.Terminal.desktop" score="16888" last-seen="1729870000"/>
     <application id="apport-gtk.desktop" score="5" last-seen="1729698413"/>
     <application id="gnome-network-panel.desktop" score="0" last-seen="0"/>
     <application id="gkbd-keyboard-display.desktop" score="0" last-seen="1729703241"/>

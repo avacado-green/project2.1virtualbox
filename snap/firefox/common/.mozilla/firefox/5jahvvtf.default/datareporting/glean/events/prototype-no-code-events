@@ -1,1 +1,1 @@
-{"timestamp":15761849,"category":"browser.usage","name":"interaction","extra":{"widget_id":"cmd-closeWindow","flow_id":"{1f77f982-e1d6-4192-9bb0-cebc5a15337c}","source":"tabs-bar","glean_timestamp":"1729778441263"},"execution_counter":9}
+{"timestamp":18385358,"category":"browser.usage","name":"interaction","extra":{"widget_id":"tab-close-button","source":"tabs-bar","flow_id":"{c4b9baf8-5e73-4a2f-9d4f-b2c8010de0e9}","glean_timestamp":"1729870062862"},"execution_counter":10}
